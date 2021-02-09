@@ -1,0 +1,2 @@
+sc delete itzdip
+pause
